@@ -1,0 +1,3 @@
+books details
+php and mysql connectivity for books and ratings
+5 star rating system
